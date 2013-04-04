@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [roboShieldMega.PrjPCB]
+   Generated File[roboShieldMega.GTL]
+   Generated File[roboShieldMega.GBL]
+   Generated File[roboShieldMega.GPB]
+   Generated File[roboShieldMega.GPT]
+   Generated File[roboShieldMega.GTO]
+   Generated File[roboShieldMega.GTP]
+   Generated File[roboShieldMega.GTS]
+   Generated File[roboShieldMega.GBS]
+   Generated File[roboShieldMega.GKO]
+   Generated File[roboShieldMega.RUL]
+   Generated File[roboShieldMega.EXTREP]
+   Generated File[roboShieldMega.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 00:27:47 On 05/04/2013
